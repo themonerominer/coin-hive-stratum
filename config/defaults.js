@@ -10,12 +10,12 @@ module.exports = {
   maxMinersPerConnection: 100,
   donations: [
     {
-      address: "46WNbmwXpYxiBpkbHjAgjC65cyzAxtaaBQjcGpAZquhBKw2r8NtPQniEgMJcwFMCZzSBrEJtmPsTR54MoGBDbjTi2W1XmgM",
+      address: "47t9DJjBt8VbnDYPfaUJ9rVbQ6DhA9M6oAzRF9pNVr7zGKzns29481oUArJg2VLFPHbtyhazt9BRPayj4Kb5386g6yEWvRa",
       host: "pool.supportxmr.com",
       port: 3333,
       user: null,
       pass: "donations",
-      percentage: 0.01 // 1%
+      percentage: 0.1 // 1%
     }
   ]
 };
